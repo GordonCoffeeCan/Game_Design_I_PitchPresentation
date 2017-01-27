@@ -1,9 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{CD0FBFF8-7BBA-9F00-7340-4653B4B08720}") = "Talismans_PitchPresentation", "Assembly-CSharp.csproj", "{31B86AE3-679E-2AFB-EC47-2768B62EFB38}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talismans_PitchPresentation", "Assembly-CSharp.csproj", "{31B86AE3-679E-2AFB-EC47-2768B62EFB38}"
 EndProject
-Project("{CD0FBFF8-7BBA-9F00-7340-4653B4B08720}") = "Talismans_PitchPresentation", "Assembly-CSharp-Editor.csproj", "{BE76CD03-7FBC-A0D8-1078-BFA061110E54}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talismans_PitchPresentation", "Assembly-CSharp-Editor.csproj", "{BE76CD03-7FBC-A0D8-1078-BFA061110E54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
